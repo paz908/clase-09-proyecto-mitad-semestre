@@ -79,15 +79,10 @@ después hacemos Y y se ve así.
 
 ## código para microcontrolador Arduino
 
-el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [codigo_arduino/codigo_arduino.ino](codigo_arduino/codigo_arduino.ino).
+el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [https://github.com/paz908/ProyectoMitadSemestre/blob/main/README.md](https://github.com/paz908/ProyectoMitadSemestre/blob/main/README.md).
 
-este código está basado en los ejemplos de Arduino blabla y en los ejemplos de esta clase en los enlaces [bla](blabla) y [bla](blabla).
+este código está basado en los ejemplos de Arduino www.arduino.cc/ ... Examples/AnalogInput y en los ejemplos de esta clase en los enlaces [https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-05/ej_03_pulsador_luz_intermitente/ej_03_pulsador_luz_intermitente.ino](https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-05/ej_03_pulsador_luz_intermitente/ej_03_pulsador_luz_intermitente.ino).
 
-primero creamos las variables blabla para almacenar valores para blabla. la variabla bla es análoga en el rango blabla y la variable blabla es digital y tiene valores posibles 0 y 1.
-
-primero en setup() hacemos que los pines X e Y sean entradas digitales, el pin Z sea salida digital, y abrimos la comunicación serial.
-
-luego en loop() leemos las entradas y usamos la salida Z para lograr prender una luz LED.
 
 ## conclusiones
 
