@@ -72,7 +72,6 @@ Despues de verificar todas las variables logramos que el parlante funcionara com
 
 
 
-![Error](https://user-images.githubusercontent.com/101216595/167727246-eaaf8da1-5a82-4979-9a61-320d1d59dad8.jpg)
 
 ## lista de materiales
 
@@ -111,5 +110,7 @@ en este proyecto tuvimos los siguientes aprendizajes:
 Lo más difícil de este proyecto fue escribir el codigo, saber que escribir para lograr que al momento de detectar un sonido el led se prenda.
 
 Cometimos los siguientes errores durante el armado del circuito y en el código, teniamos repetido dos veces el pinMode(pinLed, OUTPUT) y pinMode(pinLed, INPUT) y los solucionamos eliminando uno, eso no permitia al arduino leer el codigo y prender el led que queriamos, pero al eliminar las lineas repetidas y eliminar el pinMode(pinLed, INPUT) el arduino fue capaz de hacer lo que le pediamos.
+
+![Error](https://user-images.githubusercontent.com/101216595/167727246-eaaf8da1-5a82-4979-9a61-320d1d59dad8.jpg)
 
 Nos gustaría expandirlo para muchos led y que se varien en intensidad al ritmo de una canción y hacerlo con un sensor de sonido capaz de detectar más frecuencias.
