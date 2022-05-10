@@ -4,7 +4,7 @@
 
 
 
-## acerca de
+## Acerca de
 
 Este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
 
@@ -20,6 +20,8 @@ Despues de verificar todas las variables logramos que el parlante funcionara com
 
 ![Primera prueba (tuvimos un error en la conexión](https://user-images.githubusercontent.com/101216595/167727737-02aa84fb-0b0c-47c4-b22f-e75d1d29978f.jpg)
 
+
+
 ![Circuito](https://user-images.githubusercontent.com/101216595/167728098-d402c381-aa43-4965-bb1b-fd61e275dfa7.jpg)
 
 
@@ -27,7 +29,7 @@ Despues de verificar todas las variables logramos que el parlante funcionara com
 
 
 
-## lista de materiales
+## Lista de materiales
 
 los materiales son:
 
@@ -36,29 +38,29 @@ los materiales son:
 * cables
 * parlante
 
-## armado de circuito
+## Armado de circuito
 
 estos son los pasos para armar el circuito.
 
-paso 1.  
+Paso 1.  
 ![Circuito en la protoboard](https://user-images.githubusercontent.com/101216595/167728110-0b3df127-2f29-4fd1-8caf-0d99decc95b1.jpg)
 
 
 
-paso 2 y se ve así.
+Paso 2 y se ve así.
 
 ![Circuito en el arduino](https://user-images.githubusercontent.com/101216595/167728126-cdb60a41-c0d0-4bf5-bc66-0d7158eb976e.jpg) 
 
 
 
-## código para microcontrolador Arduino
+## Código para microcontrolador Arduino
 
 el código está hecho para Arduino Uno, y está incluido en este repositorio aquí: [https://github.com/paz908/ProyectoMitadSemestre/blob/main/README.md](https://github.com/paz908/ProyectoMitadSemestre/blob/main/README.md).
 
 este código está basado en los ejemplos de Arduino www.arduino.cc/ ... Examples/AnalogInput y en los ejemplos de esta clase en los enlaces [https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-05/ej_03_pulsador_luz_intermitente/ej_03_pulsador_luz_intermitente.ino](https://github.com/montoyamoraga/aud5i022-2022-1/blob/main/clases/clase-05/ej_03_pulsador_luz_intermitente/ej_03_pulsador_luz_intermitente.ino).
 
 
-## conclusiones
+## Conclusiones
 
 en este proyecto tuvimos los siguientes aprendizajes: 
 
