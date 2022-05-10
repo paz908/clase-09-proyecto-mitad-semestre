@@ -53,7 +53,12 @@ a continuación les dejo un breve borrador con ejemplos, que si completan, tendr
 
 este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
 
-los integrantes son María Jose Pinninghoff, María Paz Figueroa Aedo.
+Los integrantes son María Jose Pinninghoff, María Paz Figueroa Aedo.
+Inicialmente queriamos incorporar un sensor de sonido para prender led en la protoboard, pero no contabamos con uno así que probamos el parlante como sensor.
+Primero comprobamos con processing que el computador no tenia microfono incorporado ya que este se podia utilizar para este fin. Luego con el ejemplo Analog Input de arduino comprobamos que el parlante funcionaba como sensor de sonido.
+Depues comenzamos a escribir el codigo combinando el codigo ej_03_pulsador_luz_intermitente de la clase 5 y el ejempli Analog Input modificandolos para que al detectar el sonido se prenda el led en la protoboard.
+El led no estaba conectado de manera correcta con el sensor de sonido aunque en el codigo veiamos que si, entonces detectamos que el cable que vinculaba el led con el pin 1 de arduino estaba malo, por lo tanto cambiamos el cable del pin 1 al pin 7, pero seguia sin funcionar, entonces decidimos probar si los elementos de la protoboard estaban buenos y concluimos que el cable estaba malo y ese era el error que impedia el funcinamiento del led.
+Despues de verificar todas las variables logramos que el parlante funcionara como sensor de sonido detectandolo y prendiendo el led. 
 
 ## lista de materiales
 
@@ -62,8 +67,7 @@ los materiales son:
 * Arduino Uno
 * protoboard
 * cables
-* potenciómetro
-* etc
+* parlante
 
 ## armado de circuito
 
