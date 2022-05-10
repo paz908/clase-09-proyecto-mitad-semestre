@@ -61,7 +61,7 @@ Depues comenzamos a escribir el codigo combinando el codigo ej_03_pulsador_luz_i
 
 El led no estaba conectado de manera correcta con el sensor de sonido aunque en el codigo veiamos que si, entonces detectamos que el cable que vinculaba el led con el pin 1 de arduino estaba malo, por lo tanto cambiamos el cable del pin 1 al pin 7, pero seguia sin funcionar, entonces decidimos probar si los elementos de la protoboard estaban buenos y concluimos que el cable estaba malo y ese era el error que impedia el funcinamiento del led.
 Despues de verificar todas las variables logramos que el parlante funcionara como sensor de sonido detectandolo y prendiendo el led. 
-
+![Error](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=dd098b2051&attid=0.2&permmsgid=msg-f:1732477138223453869&th=180afec7354b56ad&view=att&disp=safe&realattid=180afeac1e2cca9b3001&saddbat=ANGjdJ_6VFQcQpDfVNLc31kot94UFf1wdL4T17K3YzOZ7g8Ue4jA78BAc9TonXqDQRh4yHtIg2XOwOSHoTJ_nHKhTbB8hAlZe_CZyalCuMtgiPi4NTsPXQ5ZWqV1bt4hr7hZhZ_Vvpb8Kw6p7oNL9ROn840JK_RDJxIUe-TkTQUjHf6OrS2uGUqd6TFCCY0Pr6AFyqwkoXLSqlrTRDyxgDwzKRdJaRR8YAGVZVg07NilHA7lfTqNVI5OAiZnhUiZJ1HMU7M5Ax5QpjJy53ftq-gh5ZzFx5Xs5Uvn-JzueuYwi2VxcOkXYT-az6tuwwyC8T6EBjLOeqLENKovbo48FI4ZnA0uYwceabVFITalK-EtmwVc_RrIw2sMfqduWA0TS0XJBP4TreDgjZDqGa-HPYrKHuPpq8qQwYgmrEKz9DMLYhgBjBRzF07wzxlWSJaAVdqRIlucUjnM7LeCpw86Y271Qd6Bf7WBfELNaY0BtmXVEzFCu7hNXcKjLSgPX7M-_PZpCN0wAPebvMpzQft2mgQ3SEMFnmVBO31oJ4aAyxalyd_OsI_-HOsn_LaOwDV4U6uHPaoRQaraS63JzNq3JT0Os3uJrOO6K0eFJzAUDHbj4Fl_xKmD80IfoNAnMlnuNLcNbS3ZOj3QMqqWm_B9dx355GxjYhwaXPZQ3H7hT3WsAeHqh5ryq5FHELP552u0DGieW0r7Ecrnw9J2-REW5M208Xq-c-7xccXFF5udDIUIeQ6XACZanPg7MrGydNU)
 ## lista de materiales
 
 los materiales son:
