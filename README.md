@@ -94,11 +94,10 @@ este código está basado en los ejemplos de Arduino www.arduino.cc/ ... Example
 
 en este proyecto tuvimos los siguientes aprendizajes: 
 
-* botón pulsador
-* circuito para 
+* Uso del parlante como sensor de sonido
+* Detección de sonido para prender luces led 
+Lo más difícil de este proyecto fue escribir el codigo, saber que escribir para lograr que al momento de detectar un sonido el led se prenda.
 
-lo más difícil de este proyecto fue bla.
+Cometimos los siguientes errores durante el armado del circuito y en el código, teniamos repetido dos veces el pinMode(pinLed, OUTPUT) y pinMode(pinLed, INPUT) y los solucionamos eliminando uno, eso no permitia al arduino leer el codigo y prender el led que queriamos, pero al eliminar las lineas repetidas y eliminar el pinMode(pinLed, INPUT) el arduino fue capaz de hacer lo que le pediamos.
 
-cometimos los siguientes errores durante el armado del circuito y en el código, y los solucionamos así y este error no lo supimos resolver.
-
-este proyecto lo vemos como la base para lograr bla, nos hace pensar en bla, y nos gustaría expandirlo para 10 botones y mil luces y diez arduinos conectados por wifi.
+Nos gustaría expandirlo para muchos led y que se varien en intensidad al ritmo de una canción y hacerlo con un sensor de sonido capaz de detectar más frecuencias.
